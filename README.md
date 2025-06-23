@@ -7,7 +7,7 @@ Click [Here](https://abled.tistory.com/39)
 Click [Here](https://www.youtube.com/watch?v=kMEb_BzyUqk)
 
 
-# 👁️ AI 및 컴퓨터 비전 실습 강의 (충남인력개발원, 2024)
+# 👁️ 자율주행 코딩 강의(충남인력개발원, 2024)
 
 이 저장소는 2024년 충남인력개발원에서 진행된 **AI 및 컴퓨터 비전 기반 실습 강의** 자료를 정리한 것입니다.
 
