@@ -4,8 +4,10 @@
 ### 나
 #### 다
 ##### 라
-~~취소선~~\n
-*기울임*\n
+~~취소선~~
+
+*기울임*
+
 **굵게**
 
 
@@ -15,3 +17,8 @@
 ![차]![image](https://github.com/user-attachments/assets/d72b926c-f26a-4bd3-988d-72a3df90bea8)
 
 
+``` bash
+dasdasdq
+dasdasdasdasdas
+vsvbwsfdca
+```
