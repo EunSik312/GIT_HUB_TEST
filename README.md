@@ -3,8 +3,8 @@
 ### 1일차
 
 ### 마크다운 사용 참고 사이트
-Click [Here](https://abled.tistory.com/39)
-Click [Here](https://www.youtube.com/watch?v=kMEb_BzyUqk)
+티스토리 마크다운 문법 [Here](https://abled.tistory.com/39)
+유튜브 마크다운 문법 [Here](https://www.youtube.com/watch?v=kMEb_BzyUqk)
 
 
 # 👁️ 자율주행 코딩 강의(충남인력개발원, 2024)
