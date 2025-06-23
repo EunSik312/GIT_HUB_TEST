@@ -15,7 +15,8 @@ Click [Here](https://www.youtube.com/watch?v=kMEb_BzyUqk)
 
 ---
 
-## 📅 강의 일정 요약
+## 📅 강의 일정 
+![image](https://github.com/user-attachments/assets/55337784-a034-4ac9-8b42-d731ecb66ade)
 
 
 
