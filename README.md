@@ -2,7 +2,7 @@
 
 ### 1일차
 
-### 참고 사이트
+### 마크다운 사용 참고 사이트
 Click [Here](https://abled.tistory.com/39)
 Click [Here](https://www.youtube.com/watch?v=kMEb_BzyUqk)
 
