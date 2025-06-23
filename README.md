@@ -29,7 +29,8 @@
 - **라이브러리**: OpenCV, NumPy, Pandas, matplotlib, seaborn  
 - **프레임워크/모델**: TensorFlow, PyTorch, YOLOv5/v8, ultralytics, TensorRT  
 - **툴**: Google Colab, GitHub, Dash, Scikit-learn
-```python```
+```python
+#파이썬을 사용해서 강의를 진행합니다.```
 ---
 
 ## 📁 디렉토리 구조 예시
