@@ -22,3 +22,11 @@ dasdasdq
 dasdasdasdasdas
 vsvbwsfdca
 ```
+
+
+```
+da
+pip install matplotlib
+sudo apt update
+sudo apt upgrade
+```
