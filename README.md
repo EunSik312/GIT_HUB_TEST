@@ -30,3 +30,12 @@ pip install matplotlib
 sudo apt update
 sudo apt upgrade
 ```
+
+줄바꿈은 엔터 두 번
+
+https://abled.tistory.com/39
+
+가로줄 추가하기
+
+------------
+
